@@ -26,13 +26,13 @@
 
 **Step 1: Download the Game**
 
-Download the Zip File. The game file is compressed in a zip format to save space.
+Download the Zip/7z File. The game file is compressed in a zip/7z format to save space.
 
-**Step 2: Extract the Zip File**
+**Step 2: Extract the Zip/7z File**
 
 Locate the Downloaded File: Once the download is complete, navigate to the folder on your computer where the file was saved (typically the "Downloads" folder).
 
-Extract the Zip File: Right-click on the downloaded zip file and select "Extract" or "Extract Here" from the menu. This action will unzip the contents of the file into a new folder.
+Extract the Zip File: Right-click on the downloaded file and select "Extract" or "Extract Here" from the menu. This action will unzip the contents of the file into a new folder. You can use any of your favorite extraction/zipping software like [7zip] and [Winrar]
 
 **Step 3: Explore the Game Files**
 
@@ -178,3 +178,5 @@ Cryptopia also ensures inclusivity; players can earn without obtaining NFTs. Bei
 [Discord]:  https://discord.com/invite/cryptopia
 [Facebook]: https://www.facebook.com/CryptopiaOFCL
 [Twitter]:  https://twitter.com/CryptopiaOFCL
+[7zip]: https://www.7-zip.org/
+[Winrar]: https://www.win-rar.com/
