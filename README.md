@@ -2,7 +2,7 @@
     
 ![Logo](https://i.ibb.co/vhg3nzR/logo.png)
     
-[Site]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Wiki]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Discord]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Facebook]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Twitter]
+[Site]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Wiki]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Discord]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Facebook]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Known Issues]
 
 </div>
 
@@ -180,3 +180,4 @@ Cryptopia also ensures inclusivity; players can earn without obtaining NFTs. Bei
 [Twitter]:  https://twitter.com/CryptopiaOFCL
 [7zip]: https://www.7-zip.org/
 [Winrar]: https://www.win-rar.com/
+[Known Issues]: https://github.com/cryptopia-com/unity-client/blob/main/known-issues.md
