@@ -1,4 +1,4 @@
-# Known Bugs
+# Known Issues
 - Audio Output devices are sometimes not listed.
 - Some resources in the wallet have incorrect descriptions.
 - Filter Grid does not work with new terrain.
