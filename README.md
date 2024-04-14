@@ -6,6 +6,13 @@
 
 </div>
 
+## Latest Release
+Development build **0.4.8.7**
+
+Google Drive individual download build links: 
+[Mac](https://drive.google.com/file/d/1PA8K6f-gDuaFd6Kt8ujiCsjxlKPoSEUs/view?usp=sharing) 
+[Windows](https://drive.google.com/file/d/1VCEUrw0GxZaoPQRy5tWvCJrITrHnfxE2/view?usp=sharing)
+
 ## Table of Contents
 
 1. [Getting Started](#Getting-Started)  
