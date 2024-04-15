@@ -17,22 +17,26 @@ Download the [Zip File](https://drive.google.com/file/d/1PA8K6f-gDuaFd6Kt8ujiCsj
 Google Drive may require confirmation due to virus scanning limitations. Continue by clicking `Download anyway`.
 
 **Extracting Game Files**
+
 ![Extracting](https://i.ibb.co/84sKcDH/2-unzip-1.png)
 
 1. Locate the Downloaded File: Navigate to the folder on your computer where the file was saved (typically the "Downloads" folder).
 2. Extract the Zip File: Right-click (or Control-Click) the downloaded file and choose "Open" or "Extract Here" from the menu. Alternatively, use extraction software like [7-Zip] or [WinRAR].
 
 **Exploring the Game Folder**
+
 ![Game Folder](https://i.ibb.co/9hHmncv/5-unzipped.png)
 
 Once extracted, click inside the folder to explore its contents.
 
 **Launching the Game**
+
 ![Launch Game](https://i.ibb.co/FVYkCD0/6-folder.png)
 
 Open the game by launching the 'Mac Build' application.
 
 **Software Warning**
+
 ![Security Warning](https://i.ibb.co/2Wn5PWp/7-warning.png)
 
 When opening the game, a security warning may appear. There are two ways to bypass this warning:
@@ -52,6 +56,7 @@ A. **Changing Security Options**
    - Next to this message, you'll find an option labeled `Open Anyway`. Click on this option to proceed.
 
 B. **Control-Clicking and Opening**
+
 ![Control-Click](https://i.ibb.co/th0qvdS/9-Opening-Right-Click.png)
 
 1. Control-Click (or Right-Click) the 'Mac Build':
