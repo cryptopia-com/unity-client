@@ -1,6 +1,6 @@
 <div align="center">
     
-![Logo](https://github.com/cryptopia-com/unity-client/tree/main/Images/logo.png)
+![Logo](/Images/logo.png)
     
 [Site]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Wiki]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Discord]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Facebook]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Known Issues]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Mac Installation Guide]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Windows Installation Guide]
 
