@@ -54,7 +54,7 @@ When opening the game, a Microsoft Defender warning may appear.
 
 This is necessary after game updates to clear local data. The user will receive a prompt if this is required.
 
-![Update Required](https://github.com/cryptopia-com/unity-client/blob/main/Images/UpdateReuired-major.png)
+![Update Required](https://github.com/cryptopia-com/unity-client/blob/main/Images/UpdateReuired-major.png)<br>
 If this message is displayed, follow the steps below to update the client.
 
 **Navigating to Your Local Data**
