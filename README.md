@@ -1,6 +1,6 @@
 <div align="center">
     
-![Logo](https://cryptopia.com/static/0cca665b153210b7bd3bf9d273f54868/10f1c/logo_cryptopia_text_white.webp)
+![Logo](https://github.com/cryptopia-com/unity-client/tree/main/Images/logo.png)
     
 [Site]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Wiki]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Discord]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Facebook]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Known Issues]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Mac Installation Guide]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Windows Installation Guide]
 
