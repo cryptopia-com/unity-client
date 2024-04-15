@@ -2,7 +2,8 @@
     
 ![Logo](https://i.ibb.co/vhg3nzR/logo.png)
     
-[Site]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Wiki]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Discord]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Facebook]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Known Issues]
+[Site]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Wiki]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Discord]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Facebook]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Known Issues]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Mac Installation Guide]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Windows Installation Guide]
+
 
 </div>
 
@@ -55,15 +56,9 @@ Double-Click the Game Application: Simply double-click on the game's executable 
 
 Congratulations! You've successfully downloaded and opened Cryptopia. Dive into the game world and start your crypto adventure.
 
-**Just a heads-up:** A warning from Windows Defender will pop up with a newly downloaded copy of Cryptopia. 
-
-![Windows Popup](https://i.ibb.co/vYbR5Jn/Step-0.png)
-
-You can click 'More info'
-
-![Windows Popup](https://i.ibb.co/17CRFsd/Step-1.png)
-
-and 'Run Anyway' to start playing the game
+**Clear Guide for OS Specific Device**
+[Mac Guide](https://github.com/cryptopia-com/unity-client/blob/main/mac-guide.md)
+[Windows Guide](https://github.com/cryptopia-com/unity-client/blob/main/windows-guide.md)
 
 ### Account Creation
 
@@ -188,3 +183,5 @@ Cryptopia also ensures inclusivity; players can earn without obtaining NFTs. Bei
 [7zip]: https://www.7-zip.org/
 [Winrar]: https://www.win-rar.com/
 [Known Issues]: https://github.com/cryptopia-com/unity-client/blob/main/known-issues.md
+[Mac Installation Guide]: (https://github.com/cryptopia-com/unity-client/blob/main/mac-guide.md)
+[Windows Installation Guide]:(https://github.com/cryptopia-com/unity-client/blob/main/windows-guide.md)
