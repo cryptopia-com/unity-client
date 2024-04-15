@@ -183,5 +183,5 @@ Cryptopia also ensures inclusivity; players can earn without obtaining NFTs. Bei
 [7zip]: https://www.7-zip.org/
 [Winrar]: https://www.win-rar.com/
 [Known Issues]: https://github.com/cryptopia-com/unity-client/blob/main/known-issues.md
-[Mac Installation Guide]: (https://github.com/cryptopia-com/unity-client/blob/main/mac-guide.md)
-[Windows Installation Guide]:(https://github.com/cryptopia-com/unity-client/blob/main/windows-guide.md)
+[Mac Installation Guide]: https://github.com/cryptopia-com/unity-client/blob/main/mac-guide.md
+[Windows Installation Guide]: https://github.com/cryptopia-com/unity-client/blob/main/windows-guide.md
