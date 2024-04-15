@@ -17,6 +17,7 @@ Download the [Zip File](https://drive.google.com/file/d/1VCEUrw0GxZaoPQRy5tWvCJr
 Google Drive may require confirmation due to virus scanning limitations. Continue by clicking `Download anyway`.
 
 **Extracting Game Files**
+
 ![Extracting](https://i.ibb.co/5x0ZCJ7/3-Download-Somewhere.png)
 
 1. Set and Locate the Downloaded File: Once the download is complete, navigate to the folder on your computer where the file was saved (typically the "Downloads" folder).
@@ -26,16 +27,19 @@ Google Drive may require confirmation due to virus scanning limitations. Continu
 2. Extract the Zip File: Right-click the downloaded file and choose "Extract Here" from the menu. This action will unzip the contents of the file into a new folder. If there is no option to open, you can use any extraction/zipping software like [7-Zip] or [WinRAR].
 
 **Exploring the Game Folder**
+
 ![Game Folder](https://i.ibb.co/wQsZnb9/5-Extracted.png)
 
 Once extracted, click inside the folder to explore its contents.
 
 **Launching the Game**
+
 ![Launch Game](https://i.ibb.co/7t910Sc/6-Folder.png)
 
 Open the game by launching the `Cryptopia.exe` file.
 
 **Microsoft Defender Warning**
+
 ![Windows Popup](https://i.ibb.co/vYbR5Jn/Step-0.png)
 
 When opening the game, a Microsoft Defender warning may appear.
@@ -61,6 +65,7 @@ To navigate to your local app data, press `Windows` key + `R` key on your keyboa
 Open the folder named `Cryptopia`, then open the subfolder named `Cryptopia`.
 
 **Deleting Local Data**
+
 ![Delete Local Data](https://i.ibb.co/7ChLMys/d-folder.png)
 
 Select all items in the folder and delete them. You can now start playing the game again and create a new account. This will prevent prompts for updates and clear cached local data.
