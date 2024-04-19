@@ -18,35 +18,40 @@ Google Drive may require confirmation due to virus scanning limitations. Continu
 
 **Extracting Game Files**
 
+1. Locate the Downloaded File: Navigate to the folder on your computer where the file was saved (typically the "Downloads" folder).
+
 ![Extracting](https://i.ibb.co/84sKcDH/2-unzip-1.png)
 
-1. Locate the Downloaded File: Navigate to the folder on your computer where the file was saved (typically the "Downloads" folder).
 2. Extract the Zip File: Right-click (or Control-Click) the downloaded file and choose "Open" or "Extract Here" from the menu. Alternatively, use extraction software like [7-Zip] or [WinRAR].
 
 **Exploring the Game Folder**
 
-![Game Folder](https://i.ibb.co/9hHmncv/5-unzipped.png)
-
 Once extracted, click inside the folder to explore its contents.
+
+![Game Folder](https://i.ibb.co/9hHmncv/5-unzipped.png)
 
 **Launching the Game**
 
+Open the game by launching the 'Mac Build' application.
+
 ![Launch Game](https://i.ibb.co/FVYkCD0/6-folder.png)
 
-Open the game by launching the 'Mac Build' application.
 
 **Software Warning**
 
-![Security Warning](https://i.ibb.co/2Wn5PWp/7-warning.png)
-
 When opening the game, a security warning may appear. There are two ways to bypass this warning:
 
+![Security Warning](https://i.ibb.co/2Wn5PWp/7-warning.png)
+
+
 A. **Changing Security Options**
-![Security Options](https://i.ibb.co/vHvf2mJ/9-Navigating-to-Preference.png)
 
 1. Open `Security & Privacy` Settings:
    - Click on the Apple logo in the top-left corner of your screen.
    - Select `System Preferences`, then `Security & Privacy`.
+ </br>
+ 
+![Security Options](https://i.ibb.co/vHvf2mJ/9-Navigating-to-Preference.png)
    
 2. Navigate to `General` Tab:
    - In the `Security & Privacy` window, click on the `General` tab.
@@ -75,14 +80,16 @@ Three Possible Locations:
 - `~/Library/Caches`
 - `~/Library/Application Support/com.Cryptopia.Cryptopia`
 
+Open the folder that contains the files on the screenshot, depending on your macOS version.
+
 ![Local Data](https://i.ibb.co/HX1TWTd/11-Folder.png)
 
-Open the folder that contains the mentioned files, depending on your macOS version.
-
 **Deleting Files**
-![Delete Files](https://i.ibb.co/jMJ2BLG/12-Move-To-Trash.png)
 
 Select all items in the folder and move them to the trash. You can now start playing the game again and create a new account without prompts to update or delete cached local data.
+
+![Delete Files](https://i.ibb.co/jMJ2BLG/12-Move-To-Trash.png)
+
 
 [7-Zip]: https://www.7-zip.org/
 [WinRAR]: https://www.win-rar.com/
