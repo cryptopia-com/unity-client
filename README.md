@@ -32,15 +32,13 @@ Google Drive individual download build links:
 
 ## Getting Started
 
+:information_source: For more detailed steps, see the instructions page for 
+[Mac](https://github.com/cryptopia-com/unity-client/blob/main/mac-guide.md) or
+[Windows](https://github.com/cryptopia-com/unity-client/blob/main/windows-guide.md)
+
 **Step 1: Download the Game**
 
 Download the Zip/7z File from the [Latest Release section](https://github.com/cryptopia-com/unity-client?tab=readme-ov-file#latest-release). The game file is compressed in a zip/7z format to save space.
-</br>
-</br>
-![image](https://github.com/cryptopia-com/unity-client/assets/5404036/d06ae0f3-0c23-4114-a8cd-200a1bf0e212)
-</br>
-![image](https://github.com/cryptopia-com/unity-client/assets/5404036/ba5ac032-d499-4ea1-8e9a-2e1e18daefa8)
-
 
 
 **Step 2: Extract the Zip/7z File**
@@ -48,25 +46,12 @@ Download the Zip/7z File from the [Latest Release section](https://github.com/cr
 Locate the Downloaded File: Once the download is complete, navigate to the folder on your computer where the file was saved (typically the "Downloads" folder).
 
 Extract the Zip File: Right-click on the downloaded file and select "Extract" or "Extract Here" from the menu. This action will unzip the contents of the file into a new folder. You can use any of your favorite extraction/zipping software like [7zip] and [Winrar]
-</br>
-![image](https://github.com/cryptopia-com/unity-client/assets/5404036/6de1f944-7751-454b-8af2-678a094e8223)
-</br>
-![image](https://github.com/cryptopia-com/unity-client/assets/5404036/be74e73c-93cc-4347-97e4-612353028ff2)
-</br>
-![image](https://github.com/cryptopia-com/unity-client/assets/5404036/3fb856a7-2dcc-48ac-a7c7-cbd302835d89)
-
-
 
 **Step 3: Explore the Game Files**
 
 Open the Extracted Folder: After extraction, open the new folder that contains the unzipped game files.
 
 Look for the Game Application: Within the extracted folder, search for the game's executable file (often ending with .exe for Windows or .app for macOS). This file is what you'll use to launch the game.
-</br>
-![image](https://github.com/cryptopia-com/unity-client/assets/5404036/acbcb530-491f-4b2e-a230-6418ed52ba64)
-</br>
-![image](https://github.com/cryptopia-com/unity-client/assets/5404036/27319e5f-78ee-43a3-b6a4-0628847881fe)
-
 
 **Step 4: Launch the Game**
 
