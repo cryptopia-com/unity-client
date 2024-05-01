@@ -1,7 +1,7 @@
 # Windows Guide
 
 ## Download Link
-[Version 0.4.8.7](https://drive.google.com/file/d/1VCEUrw0GxZaoPQRy5tWvCJrITrHnfxE2/view?usp=sharing)
+[Version 0.4.8.7.3](https://drive.google.com/file/d/1KlXwK34CXcfej_6n6q-7ZX94s_JakG65/view?usp=sharing)
 
 [Playing the Game](#playing-the-game) | [Clearing Local Data](#clearing-local-data)
 
@@ -10,7 +10,7 @@
 ### Downloading and Extracting Game Files
 
 **Downloading the Zip File**
-Download the [Zip File](https://drive.google.com/file/d/1VCEUrw0GxZaoPQRy5tWvCJrITrHnfxE2/view?usp=sharing). The game file is compressed in ZIP format to save space.
+Download the [Zip File](hhttps://drive.google.com/file/d/1KlXwK34CXcfej_6n6q-7ZX94s_JakG65/view?usp=sharing). The game file is compressed in ZIP format to save space.
 
 ![Downloading](https://i.ibb.co/rsYDKyN/1-Download-File.png)
 
