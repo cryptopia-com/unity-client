@@ -19,3 +19,5 @@
 - Users can switch to other starter ships while inside a ship using a specific button combination.
 - Polaris interior: Some doors flip the wrong way.
 - Avatar editor changes may not continue or get stuck in some instances (Restart may be required).
+- Embankments and other mesh objects are seen floating in the tile mode.
+- Avatar gets stuck in the borders of a tile scene when the warning window opens and closes.
