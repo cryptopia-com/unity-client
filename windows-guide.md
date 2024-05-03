@@ -1,7 +1,7 @@
 # Windows Guide
 
 ## Download Link
-[Version 0.4.8.7.3](https://drive.google.com/file/d/1KlXwK34CXcfej_6n6q-7ZX94s_JakG65/view?usp=sharing)
+[Version 0.4.8.7.4](https://drive.google.com/file/d/1N4BTphi22v_UXleqcEPnBl9j2G5c9RL8/view?usp=sharing)
 
 [Playing the Game](#playing-the-game) | [Clearing Local Data](#clearing-local-data)
 
