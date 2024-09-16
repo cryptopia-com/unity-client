@@ -10,7 +10,7 @@
 ## Latest Release
 Development build **0.4.8.8.2b**
 
-Google Drive individual download build links:
+Google Drive individual download build link:
 [Windows](https://drive.google.com/file/d/1LT8-DqkJsK13ztUX4qBYBzPC2CUCtOIO/view?usp=drive_link)
 
 ## Table of Contents
