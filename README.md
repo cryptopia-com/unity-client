@@ -8,18 +8,10 @@
 </div>
 
 ## Latest Release
-Development build **0.4.8.7.4**
+Development build **0.4.8.8.2b**
 
-Google Drive individual download build links: 
-[Windows](https://drive.google.com/file/d/1N4BTphi22v_UXleqcEPnBl9j2G5c9RL8/view?usp=sharing)
-[Mac](https://drive.google.com/file/d/1nOI-jVAwY55zpcLN5KzhsNSvYUolwj9w/view?usp=sharing) 
-
-## Last Version
-Development build **0.4.8.7**
-
-Google Drive individual download build links: 
-[Mac](https://drive.google.com/file/d/1PA8K6f-gDuaFd6Kt8ujiCsjxlKPoSEUs/view?usp=sharing) 
-[Windows](https://drive.google.com/file/d/1VCEUrw0GxZaoPQRy5tWvCJrITrHnfxE2/view?usp=sharing)
+Google Drive individual download build links:
+[Windows](https://drive.google.com/file/d/1LT8-DqkJsK13ztUX4qBYBzPC2CUCtOIO/view?usp=drive_link)
 
 ## Table of Contents
 
