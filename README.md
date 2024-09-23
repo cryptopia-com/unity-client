@@ -11,7 +11,7 @@
 Development build **0.4.8.8.3c**
 
 Google Drive individual download build link:
-[Windows](https://drive.google.com/file/d/1Ap3Zg1W6VrpxsirUpxSCPd0D2SH3Vn4L/view?usp=drive_link)
+[Windows](https://drive.google.com/file/d/1Gu24J7nQmk1MtGt1gIZmxofcDZZLXYGa/view))
 
 ## Table of Contents
 
