@@ -1,7 +1,7 @@
 # Mac OS Guide
 
 ## Download Link
-[Version 0.4.8.7.4](https://drive.google.com/file/d/1nOI-jVAwY55zpcLN5KzhsNSvYUolwj9w/view?usp=sharing)
+"Coming Soon"
 
 [Playing the Game](#playing-the-game) | [Clearing Local Data](#clearing-local-data)
 
