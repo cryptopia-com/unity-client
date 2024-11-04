@@ -1,7 +1,8 @@
 # Windows Guide
 
 ## Download Link
-[Version 0.4.8.8.4a](https://drive.google.com/file/d/1Gu24J7nQmk1MtGt1gIZmxofcDZZLXYGa/view)
+[Version 0.4.8.8.8 Standard](https://drive.google.com/file/d/1WvyiPZjeOSFa3vvXEWszjLKWJsyQ7zTh/view?usp=drive_link)
+[Version 0.4.8.8.8 Dev](https://drive.google.com/file/d/1Omm4Bo8vv1OUjaMWtJyr7kVrMYER-LC_/view?usp=drive_link)
 
 [Playing the Game](#playing-the-game) | [Clearing Local Data](#clearing-local-data)
 
