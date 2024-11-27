@@ -8,7 +8,7 @@
 </div>
 
 ## Latest Release
-Development build **0.4.8.8.9d**
+Development build **0.4.8.9.0a**
 
 Google Drive individual download build link:
 [Windows Standard](https://drive.google.com/file/d/1W3gSO6InNvr1FWNl42XiSKElixUkZ3Jt/view?usp=drive_link)
