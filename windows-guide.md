@@ -1,8 +1,12 @@
 # Windows Guide
 
 ## Download Link
-[Windows Standard](https://drive.google.com/file/d/1L4yu8LsDX59LigekLUKHziclyChkWB0V/view)
-[Windows Dev](https://drive.google.com/file/d/19hwMCtBNs0ztUPbEIdbYwOrG1YEyiaXO/view?usp=drive_link)
+## Latest Release
+Development build **0.4.8.9.0a**
+
+Google Drive individual download build link:
+[Windows Standard](https://drive.google.com/file/d/1W3gSO6InNvr1FWNl42XiSKElixUkZ3Jt/view?usp=drive_link)
+[Windows Dev](https://drive.google.com/file/d/1Xg0wXCvPonAeqkyg4uB285nL5dYBnKeV/view?usp=drive_link)
 
 [Playing the Game](#playing-the-game) | [Clearing Local Data](#clearing-local-data)
 
