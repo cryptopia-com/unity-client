@@ -1,7 +1,10 @@
 # Mac OS Guide
 
 ## Download Link
-"Coming Soon"
+Development build **0.4.8.9.3c**
+
+Google Drive individual download build link:
+[Standard](https://drive.google.com/file/d/1H3RxT_L_XVSc7KjOUKlVMM9FP_7pa7RG/view?usp=drive_link)
 
 [Playing the Game](#playing-the-game) | [Clearing Local Data](#clearing-local-data)
 
