@@ -40,7 +40,7 @@ Open the game by launching the 'Mac Build' application.
 ![Launch Game](https://i.ibb.co/FVYkCD0/6-folder.png)
 
 
-**Software Warning**
+## Software Warning
 
 When opening the game, a security warning may appear. There are two ways to bypass this warning:
 
